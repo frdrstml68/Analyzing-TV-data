@@ -1,2 +1,2 @@
 # projects
-some analysis I made myself
+Superbowl TV analysis
