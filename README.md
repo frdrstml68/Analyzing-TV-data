@@ -1,2 +1,2 @@
-# projects
+# project
 Superbowl TV analysis
